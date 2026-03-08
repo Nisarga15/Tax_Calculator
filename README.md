@@ -38,3 +38,51 @@ Tax_Calculator
 
 ---
 
+## Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## How to Run the Project
+
+1. Clone the repository:
+
+```
+git clone https://github.com/Nisarga15/Tax_Calculator.git
+```
+
+2. Navigate to the project folder.
+
+3. Open the main file in your browser:
+
+```
+ch08-proj01.html
+```
+
+The application will load in your browser and allow you to calculate taxes for items in your shopping list.
+
+---
+
+## Example Use Case
+
+1. Add items to the shopping list.
+2. The application calculates the tax based on predefined tax rules.
+3. The total amount including tax is displayed.
+
+This allows users to estimate the final purchase cost quickly.
+
+---
+
+## Future Improvements
+
+* Add support for different tax rates by region
+* Improve user interface and styling
+* Allow users to edit or remove items
+* Add responsive design for mobile devices
+* Store shopping lists using local storage
+
+---
+
