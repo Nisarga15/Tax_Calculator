@@ -66,23 +66,3 @@ The application will load in your browser and allow you to calculate taxes for i
 
 ---
 
-## Example Use Case
-
-1. Add items to the shopping list.
-2. The application calculates the tax based on predefined tax rules.
-3. The total amount including tax is displayed.
-
-This allows users to estimate the final purchase cost quickly.
-
----
-
-## Future Improvements
-
-* Add support for different tax rates by region
-* Improve user interface and styling
-* Allow users to edit or remove items
-* Add responsive design for mobile devices
-* Store shopping lists using local storage
-
----
-
